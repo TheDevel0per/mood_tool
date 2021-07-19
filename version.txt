@@ -1,1 +1,1 @@
-{"version":"1","link":"https://thedeveloper.mywebcommunity.org"}
+{"version":"2","link":"https://thedeveloper.mywebcommunity.org"}
