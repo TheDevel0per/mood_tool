@@ -1,1 +1,1 @@
-{"version":"2","link":"https://thedeveloper.mywebcommunity.org"}
+{"version":"1","link":"https://github.com/TheDevel0per/mood_tool/raw/main/MOD%20TOOL.apk"}
